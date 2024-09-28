@@ -3,8 +3,9 @@
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning web development, dsa .
 - 💞️ I’m looking to collaborate on new real life projects.
+- 👀 I like to connect with new people .
 - 📫 Lets connect on Linkdin -> linkedin.com/in/shruti-desai-7b5677302
-- 👀 I’m like to connect with new people 
+
 
 
 <!---
