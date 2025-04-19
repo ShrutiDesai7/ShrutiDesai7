@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ShrutiDesai7
    I am pursuing BTech in Computer Science and currently in second year.
-- 😄 Pronouns: she/her
 - 🌱 I’m currently learning web development, dsa , python .
 - 💞️ I’m looking to collaborate on new real life projects.
-- 👀 I like to connect with new people .
+- 👀 I like to connect and collaborate with new people .
 - 📫 Lets connect on Linkdin -> linkedin.com/in/shruti-desai-7b5677302
 
 
