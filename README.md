@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShrutiDesai7
-   I am pursuing BTech in Computer Science and currently in second year.
+   I am pursuing BTech in Computer Science .
 - 🌱 I’m currently learning web development, dsa , python .
 - 💞️ I’m looking to collaborate on new real life projects.
 - 👀 I like to connect and collaborate with new people .
